@@ -1,0 +1,10 @@
+List meta-functions: map , filter, reduce
+
+val s =  List [ 2 , 3 , 4 ] 
+val square = vals.map((x) => x * x) 
+val evens = vals.filter((x) => x % 2 == 0)
+val sum = vals.reduce((x,y) => x + y) 
+
+3 / 2 / 4 
+=> 3 * div(1,2) * div(1,4)
+=> 3 * 1 / 2 * 1 / 4
