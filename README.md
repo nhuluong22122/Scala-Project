@@ -1,4 +1,4 @@
-## Synopsis
+## Scala Project
 
 This Scala Project is used to create a new programming language called Jedi that supports many functionalities in new programming languagues
 * Lambdas, closures, and static scoping
